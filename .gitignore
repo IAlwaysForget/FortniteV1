@@ -1,0 +1,16 @@
+
+*.vsidx
+.vs/ApexBaby/v17/.suo
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
+*.db
+*.exe
+*.pdb
+*.yes
+*.txt
+.vs/ApexBaby/v17/fileList.bin
+lib/DMALibrary.lib
+*.dll
+*.testlog
